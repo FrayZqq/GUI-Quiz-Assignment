@@ -1,0 +1,42 @@
+export const data = [
+    {
+      question: "Why might an organization continue to use a legacy system?",
+      option1: "Because its data cannot be converted to newer formats",
+      option2: "Because it is the most advanced system available ",
+      option3: "Because it is cheaper to maintain ",
+      option4: "Because it requires fewer resources ",
+      ans: 1,
+    },
+    {
+      question: "What is one of the main challenges in maintaining a legacy system?",
+      option1: "It requires a lot of new training ",
+      option2: "It is the most expensive solution ",
+      option3: "It is not compatible with mobile devices ",
+      option4: "It involves various maintenance challenges ",
+      ans: 4,
+    },
+    {
+      question: "Why is the exchange of data between legacy and new systems important?",
+      option1: "To ensure compatibility and proper functioning ",
+      option2: "To reduce the cost of new systems ",
+      option3: "To avoid the use of cloud-based solutions ",
+      option4: "To minimize the need for IT personnel ",
+      ans: 1,
+    },
+    {
+      question: "What is a business merger?",
+      option1: "The separation of two companies ",
+      option2: "The creation of a new department within a company ",
+      option3: "The combining of two or more business entities ",
+      option4: "The acquisition of new technology by a company ",
+      ans: 3,
+    },
+    {
+      question: "Which strategy for integration involves high maintenance costs?",
+      option1: "Replace both systems ",
+      option2: "Keep both information systems and develop them to have the same functionality ",
+      option3: "Select one system and drop the other ",
+      option4: "Combine the best systems from each company ",
+      ans: 2,
+    },
+  ];
